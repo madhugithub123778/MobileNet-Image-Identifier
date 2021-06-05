@@ -1,0 +1,50 @@
+body{
+background-color: lightskyblue;
+}
+
+.heading{
+font-family: 'Lucida Sans Regular';font-size: 25px;color: navy;background-color: white;box-shadow: 15px 15px 20px navy;height: 130px;
+}
+
+.heading img{
+width: 100px; height: 100px;
+
+
+}
+
+.webcam_1{
+background-color: turquoise; border: 5px solid black;margin-top: 30px;padding: 7px;
+
+}
+
+label{
+font-size: 18px; font-family: 'Courier New';padding: 5px;
+
+
+}
+
+#camera, #result{
+border: 3px dashed navy;width: 300px; height: 300px;
+
+}
+
+.answer img{
+width: 100px; height: 100px;
+
+
+}
+
+.answer{
+background-color: whitesmoke;width: 1000px;margin-top: 15px;border-radius: 20px;
+}
+
+.answer h4{
+font-family: monospace;color: red;font-weight: bold;font-size: 20px;
+
+
+}
+
+.footer{
+text-align: center;position: fixed; bottom: 0;background-color:seashell;line-height: 3;font-size: 18px;color: rebeccapurple;font-weight: bold;font-family: 'Times New Roman';
+
+}
